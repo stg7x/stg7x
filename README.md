@@ -2,7 +2,6 @@
 — Plato 
 
 ![stg7x's GitHub stats](https://github-readme-stats.vercel.app/api?username=stg7x&show_icons=true&theme=tokyonight)
-![stg7x's GitHub stats](https://github-readme-stats.vercel.app/api?username=stg7x&show_icons=true&theme=tokyonight)
 
 
 <!--
