@@ -1,4 +1,5 @@
-## Hi there 👋
+## "For those who truly think, the measure of life is life itself."
+— Plato 
 
 <!--
 **stg7x/stg7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
