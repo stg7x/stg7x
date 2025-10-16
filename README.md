@@ -1,7 +1,7 @@
 ## "For thinking people, the measure is a whole life."
 — Plato 
 
-![stg7x's GitHub stats](https://github-readme-stats.vercel.app/api?username=stg7x&show_icons=true&theme=tokyonight)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=stg7x&layout=compact)
 
 
 <!--
