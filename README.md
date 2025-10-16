@@ -1,4 +1,4 @@
-## "For those who truly think, the measure of life is life itself."
+## "For thinking people, the measure is a whole life."
 — Plato 
 
 <!--
